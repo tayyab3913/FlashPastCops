@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.01.2019 00:06:38
+
+newmtl OfficeSupplis2_MAT
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka OfficeSupplies2_Diff.png
+	map_Kd OfficeSupplies2_Diff.png
+	map_Ks OfficeSupplies2_MASK1.png
+	map_d OfficeSupplies2_Alpha.png
+	map_bump OfficeSupplies2_NORM.png
+	bump OfficeSupplies2_NORM.png
